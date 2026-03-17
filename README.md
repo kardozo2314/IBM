@@ -24,6 +24,6 @@
   api Key(각자 계정으로 만들어야 함) : 
   API KEY = WMO_7trJvkFoX_w9FFdrYyB70fztu_-fChxD3kdlkkTJ
 
-### 4. 실습 자료 다운로드 ###
+### 5. 강의 아젠다 ###
 
-* **[day1-실습].zip, [day2-실습].zip** 파일을 다운로드 받으세요.
+<img width="1649" height="782" alt="image" src="https://github.com/user-attachments/assets/9e4d8f9d-3b7a-426e-bde0-2f88944e8195" />
