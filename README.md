@@ -15,12 +15,10 @@
 
 * watsonx.ai 프로젝트 초기 설정
 
-1) 프로젝트 생성하기 : import 하기
-  명명규칙 : <자기이름> - watsonx.ai
+1) 프로젝트 생성하기 : import 하기 -> **명명규칙 : <자기이름> - watsonx.ai**
 2) watsonx.ai runtime 설정하기
 3) 프로젝트 Access Token 생성하기 (노트북 사용)
-4) deployment space 생성하기 : 테스트 환경
-  명명규칙 : <자기이름> - test
+4) deployment space 생성하기 : 테스트 환경 -> **명명규칙 : <자기이름> - test**
 
 * watsonx.ai  접속정보
   api Key(각자 계정으로 만들어야 함) : 
