@@ -100,10 +100,32 @@
 ./rag 의 문서 이용
 https://github.com/paul-cl/watsonx.ai-hands-on/tree/main/prompt_engineering#lab-7--rag-integration-검색-증강-생성
 
-* Lab  - RAG
+* Lab  - RAG & Agent
 
-  1. RAG - watsonx.ai 의 Chat 대화모드 서비스에 RAG 생성
+  - RAG - watsonx.ai 의 Chat 대화모드 서비스에 RAG 생성
 
-  2. Auto RAG
+  - Auto RAG
  
-  3. Agent
+  - Agent
+
+* Lab - AI 서비스 생성 w/노트북
+
+  - 마케팅 프롬프트 노트북 작업 : https://github.com/paul-cl/watsonx.ai-hands-on/blob/main/README.md#lab3-notebook-code
+
+  - 번역 프롬프트 템플릿 생성 : https://github.com/paul-cl/watsonx.ai-hands-on/blob/main/README.md#번역-서비스-prompt-template-만들기
+
+  - 번역 프롬프트 템플릿 배포 
+
+  - 번역 AI 서비스 파이썬 노트북으로 구현하기 : https://github.com/paul-cl/watsonx.ai-hands-on/blob/main/Build%20AI%20Apps%20Using%20PromptTemplate.ipynb
+
+### 6. 교육 ###
+
+https://www.ibm.com/training/course/watsonx-technical-essentials-DL19012G
+
+1. IBM watsonx - A portfolio of AI products
+
+2. IBM Watson Orchestrate - An AI agent orchestration solutio
+
+3. IBM watsonx.data - A open, hybrid data lakehouse
+
+4. IBM Watsonx.governance - An AI governance toolkit
