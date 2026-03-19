@@ -99,3 +99,9 @@
   - chat with documents
 ./rag 의 문서 이용
 https://github.com/paul-cl/watsonx.ai-hands-on/tree/main/prompt_engineering#lab-7--rag-integration-검색-증강-생성
+
+* Lab  - RAG
+
+  - 1. RAG - watsonx.ai 의 Chat 대화모드 서비스에 RAG 생성
+
+  - 2. Auto RAG
