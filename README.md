@@ -102,6 +102,8 @@ https://github.com/paul-cl/watsonx.ai-hands-on/tree/main/prompt_engineering#lab-
 
 * Lab  - RAG
 
-  - 1. RAG - watsonx.ai 의 Chat 대화모드 서비스에 RAG 생성
+  1. RAG - watsonx.ai 의 Chat 대화모드 서비스에 RAG 생성
 
-  - 2. Auto RAG
+  2. Auto RAG
+ 
+  3. Agent
